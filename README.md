@@ -20,11 +20,5 @@
 <a href="https://wa.me/6285157489446" target="_blank"><img src="https://img.shields.io/badge/Whatsapp-%808080.svg?&style=flat-square&logo=Whatsapp&logoColor=white" alt="Whatsapp"></a>
 
 ![github stats](https://github-readme-stats.vercel.app/api?username=amiruldev20&show_icons=true)
-
-- 🔭 I’m currently working on my personal projects, you can check <a href="http://amiruldev.net">my personal website</a>
-- ⚡ Excited to create open-source projects
-- 🌱 I’m currently learning Golang and DevOps
-- 😄 I'm natively speak Indonesian and fluently speak english especially british accent <3 
-- 💕 I'm currently fall in love with NuxtJS and Laravel
-- 📫 You can reach me at personal@amiruldev.net
+<br>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=amiruldev20&theme=vue">
