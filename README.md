@@ -14,11 +14,11 @@
 <img align="center" fit="fill" alt="GIF" src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif" />
 
 ### 📫 Feel free to contact me anytime
-[<img src="https://img.shields.io/badge/Telegram-%40myarfine-blue">](https://t.me/amirul_dev)
-[<img src="https://img.shields.io/badge/Email-cwhite38%40student.mtsac.edu-orange">](mailto:personal@amiruldev.net)
-<a href="https://www.instagram.com/wa.bot" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=flat-square&logo=instagram&logoColor=white" alt="Instagram"></a>
-<a href="https://twitter.com/_fnbots_" target="_blank"><img src="https://img.shields.io/badge/Twitter-%231877F2.svg?&style=flat-square&logo=Twitter&logoColor=white" alt="Twitter"></a>
-<a href="https://wa.me/6281286118629" target="_blank"><img src="https://img.shields.io/badge/Whatsapp-%808080.svg?&style=flat-square&logo=Whatsapp&logoColor=white" alt="Whatsapp"></a>
+[<img src="https://img.shields.io/badge/Telegram-%40amirul_dev-blue">](https://t.me/amirul_dev)
+[<img src="https://img.shields.io/badge/Email-cwhite38%40personal@amiruldev.net-orange">](mailto:personal@amiruldev.net)
+<a href="https://www.instagram.com/amirul.dev" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=flat-square&logo=instagram&logoColor=white" alt="Instagram"></a>
+<a href="https://twitter.com" target="_blank"><img src="https://img.shields.io/badge/Twitter-%231877F2.svg?&style=flat-square&logo=Twitter&logoColor=white" alt="Twitter"></a>
+<a href="https://wa.me/6285157489446" target="_blank"><img src="https://img.shields.io/badge/Whatsapp-%808080.svg?&style=flat-square&logo=Whatsapp&logoColor=white" alt="Whatsapp"></a>
 
 ![github stats](https://github-readme-stats.vercel.app/api?username=amiruldev20&show_icons=true)
 
