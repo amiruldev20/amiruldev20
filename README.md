@@ -1,11 +1,7 @@
-[![Amirul Dev banner](https://github.com/amiruldev20/amiruldev20/20201010_182734_0000.png)](https://fb.com/amirull.corp)
+[![Amirul Dev banner](https://i.ibb.co/P541s5Q/20201010-182734-0000.png)](https://fb.com/amirull.corp)
 
 ## Hello, Im [Amirul Dev](https://instagram.com/amirul.dev) <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px"> :sunglasses:
 [<img src="https://img.shields.io/badge/Website-amiruldev.net-blue">](www.amiruldev.net)
-
-<img align="right" alt="GIF" height="125px" src="https://i.giphy.com/media/LMt9638dO8dftAjtco/200.webp" />
-<img align="right" alt="GIF" height="125px" src="https://media3.giphy.com/media/ln7z2eWriiQAllfVcn/200w.webp" />
-<img align="right" alt="GIF" height="125px" src="https://media.giphy.com/media/0YLMNYmGyMfcqRX1j1/source.gif" />
 
 :page_with_curl: I'm currently learning:
 - Golang 
