@@ -1,3 +1,5 @@
+[![Amirul Dev banner](https://github.com/amiruldev20/amiruldev20/20201010_182734_0000.png)](https://fb.com/amirull.corp)
+
 ## Hello, Im [Amirul Dev](https://instagram.com/amirul.dev) <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px"> :sunglasses:
 [<img src="https://img.shields.io/badge/Website-amiruldev.net-blue">](www.amiruldev.net)
 
