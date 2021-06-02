@@ -4,16 +4,9 @@
 [<img src="https://img.shields.io/badge/Website-amiruldev.net-blue">](www.amiruldev.net)
 
 :page_with_curl: I'm currently learning:
-- Golang 
-- Python
-- Javascript
-- Java
-- Kotlin
-- Django
-- Jade
-- Nodejs
-- Laravel
-- Codeigniter
+- Golang • Python • Javascript • Java
+- Kotlin • Django • Jade • Nodejs
+- Laravel • Codeigniter
 
 <img align="center" fit="fill" alt="GIF" src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif" />
 
