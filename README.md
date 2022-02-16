@@ -1,7 +1,7 @@
 [![Amirul Dev banner](https://i.ibb.co/P541s5Q/20201010-182734-0000.png)](https://fb.com/amirull.corp)
 
 ## Hello, Im [Amirul Dev](https://instagram.com/amirul.dev) <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px"> :sunglasses:
-[<img src="https://img.shields.io/badge/Website-amiruldev.net-blue">](www.amiruldev.net)
+[<img src="https://img.shields.io/badge/Website-amiruldev.net-blue">](www.amiruldev.my.id)
 
 :page_with_curl: I'm currently learning:
 - Golang • Python • Javascript • Java
@@ -12,7 +12,7 @@
 
 ### 📫 Feel free to contact me anytime
 [<img src="https://img.shields.io/badge/Telegram-%40amirul_dev-blue">](https://t.me/amirul_dev)
-[<img src="https://img.shields.io/badge/Email-personal@amiruldev.net-orange">](mailto:personal@amiruldev.net)
+[<img src="https://img.shields.io/badge/Email-amirul@skyn.tech-orange">](mailto:amirul@skyn.tech)
 <a href="https://www.instagram.com/amirul.dev" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=flat-square&logo=instagram&logoColor=white" alt="Instagram"></a>
 <a href="https://twitter.com" target="_blank"><img src="https://img.shields.io/badge/Twitter-%231877F2.svg?&style=flat-square&logo=Twitter&logoColor=white" alt="Twitter"></a>
 <a href="https://wa.me/6282167727762" target="_blank"><img src="https://img.shields.io/badge/Whatsapp-%808080.svg?&style=flat-square&logo=Whatsapp&logoColor=white" alt="Whatsapp"></a>
