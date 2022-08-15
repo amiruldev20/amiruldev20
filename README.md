@@ -1,7 +1,11 @@
 [![Amirul Dev banner](https://i.ibb.co/P541s5Q/20201010-182734-0000.png)](https://fb.com/amirull.corp)
 
 ## Hello, Im [Amirul Dev](https://instagram.com/amirul.dev) <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px"> :sunglasses:
-[<img src="https://img.shields.io/badge/Website-amiruldev.net-blue">](www.amiruldev.my.id)
+[<img src="https://img.shields.io/badge/Website-amiruldev.my.id-blue">](www.amiruldev.my.id)
+[<img src="https://img.shields.io/badge/Email-teamdikode@gmail.com-purple">](mailto:teamdikode@gmail.com)
+<a href="https://www.instagram.com/amirul.dev" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=flat-square&logo=instagram&logoColor=white" alt="Instagram"></a>
+<a href="https://wa.me/687852104" target="_blank"><img src="https://img.shields.io/badge/Whatsapp-%808080.svg?&style=flat-square&logo=Whatsapp&logoColor=white" alt="Whatsapp"></a>
+
 
 :page_with_curl: I'm currently learning:
 - Golang • Python • Javascript • Java
