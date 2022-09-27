@@ -10,7 +10,8 @@
 :page_with_curl: I'm currently learning:
 - Golang • Python • Javascript • Java
 - Kotlin • Django • Jade • Nodejs
-- Laravel • Codeigniter
+- Laravel • Codeigniter • Vuejs • Express JS
+- PHP • Shell
 
 <img align="center" fit="fill" alt="GIF" src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif" />
 
