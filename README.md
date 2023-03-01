@@ -1,11 +1,15 @@
-[![Amirul Dev banner](https://i.ibb.co/P541s5Q/20201010-182734-0000.png)](https://fb.com/amirull.corp)
+<h1 align="center">
+ <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?color=%2340A597&size=30&width=800&lines=Hello,+i'm+Amirul+Dev.+21+YO;i'am+a+web,mobile+and+bot+developer">
+  </a>
+</h1>
 
 ## Hello, Im [Amirul Dev](https://instagram.com/amirul.dev) <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px"> :sunglasses:
 [<img src="https://img.shields.io/badge/Website-amiruldev.my.id-blue">](www.amiruldev.my.id)
-[<img src="https://img.shields.io/badge/Email-teamdikode@gmail.com-purple">](mailto:teamdikode@gmail.com)
+[<img src="https://img.shields.io/badge/Email-amiruldev20@gmail.com-purple">](mailto:amiruldev20@gmail.com)
 <a href="https://www.instagram.com/amirul.dev" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=flat-square&logo=instagram&logoColor=white" alt="Instagram"></a>
-<a href="https://wa.me/687852104" target="_blank"><img src="https://img.shields.io/badge/Whatsapp-%808080.svg?&style=flat-square&logo=Whatsapp&logoColor=white" alt="Whatsapp"></a>
-
+<a href="https://wa.me/6285157489446" target="_blank"><img src="https://img.shields.io/badge/Whatsapp-%808080.svg?&style=flat-square&logo=Whatsapp&logoColor=white" alt="Whatsapp"></a>
+[![GitHub amiruldev20](https://img.shields.io/github/followers/amiruldev20?label=follow&style=social)](https://github.com/amiruldev20)
 
 :page_with_curl: I'm currently learning:
 - Golang • Python • Javascript • Java
@@ -13,15 +17,25 @@
 - Laravel • Codeigniter • Vuejs • Express JS
 - PHP • Shell
 
-<img align="center" fit="fill" alt="GIF" src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif" />
+## Repo Stats 🔥
+![github card](https://github-readme-stats.vercel.app/api/pin/?username=amiruldev20&repo=Baileys&theme=highcontrast)
+![github card](https://github-readme-stats.vercel.app/api/pin/?username=amiruldev20&repo=mywamd&theme=highcontrast)
+![github card](https://github-readme-stats.vercel.app/api/pin/?username=amiruldev20&repo=ninjabotmd&theme=highcontrast)
+![github card](https://github-readme-stats.vercel.app/api/pin/?username=amiruldev20&repo=wabot-go&theme=highcontrast)
+![github card](https://github-readme-stats.vercel.app/api/pin/?username=amiruldev20&repo=WhatsKuy&theme=highcontrast)
 
-### 📫 Feel free to contact me anytime
-[<img src="https://img.shields.io/badge/Telegram-%40amirul_dev-blue">](https://t.me/amirul_dev)
-[<img src="https://img.shields.io/badge/Email-amirul@skyn.tech-orange">](mailto:amirul@skyn.tech)
-<a href="https://www.instagram.com/amirul.dev" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=flat-square&logo=instagram&logoColor=white" alt="Instagram"></a>
-<a href="https://twitter.com" target="_blank"><img src="https://img.shields.io/badge/Twitter-%231877F2.svg?&style=flat-square&logo=Twitter&logoColor=white" alt="Twitter"></a>
-<a href="https://wa.me/6282167727762" target="_blank"><img src="https://img.shields.io/badge/Whatsapp-%808080.svg?&style=flat-square&logo=Whatsapp&logoColor=white" alt="Whatsapp"></a>
+   <p align="center">
+  <a href="https://github.com/amiruldev20"><img src="https://github-readme-stats.vercel.app/api?username=amiruldev20&theme=tokyonight&show_icons=true" /></a>
+</p>
 
-![github stats](https://github-readme-stats.vercel.app/api?username=amiruldev20&show_icons=true)
-<br>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=amiruldev20&theme=vue">
+<p align="center">
+  <a href="https://github.com/amiruldev20"><img src="https://github-readme-streak-stats.herokuapp.com?user=amiruldev20&theme=tokyonight&hide_border=false&properties=background&border=%239611C5FF" /><a>
+</p>
+  
+<p align="center">
+  <a href="https://github.com/amiruldev20"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=amiruldev20&theme=tokyonight&layout=compact" /></a>
+</p>
+  
+<p align="center">
+  <a href="https://github.com/amiruldev20"><img src="https://github-profile-trophy.vercel.app/?username=amiruldev20&theme=radical&margin-w=20&no-bg=true&no-frame=false" /><a>
+</p>
