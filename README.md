@@ -1,6 +1,6 @@
 <h1 align="center">
  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?color=%2340A597&size=30&width=800&lines=Hello,+i'm+Amirul+Dev.+21+YO;i'am+a+web,mobile+and+bot+developer">
+    <img src="https://readme-typing-svg.herokuapp.com?color=%2340A597&size=30&width=800&lines=Hello,+i'm+Amirul+Dev.+22+YO;i'am+a+web,mobile+and+bot+developer">
   </a>
 </h1>
 
@@ -18,12 +18,13 @@
 - PHP • Shell
 
 ## Repo Stats 🔥
+![github card](https://github-readme-stats.vercel.app/api/pin/?username=amiruldev20&repo=mywajs&theme=highcontrast)
 ![github card](https://github-readme-stats.vercel.app/api/pin/?username=amiruldev20&repo=wwebjs&theme=highcontrast)
 ![github card](https://github-readme-stats.vercel.app/api/pin/?username=amiruldev20&repo=Baileys&theme=highcontrast)
 ![github card](https://github-readme-stats.vercel.app/api/pin/?username=amiruldev20&repo=mywamd&theme=highcontrast)
 ![github card](https://github-readme-stats.vercel.app/api/pin/?username=amiruldev20&repo=ninjabotmd&theme=highcontrast)
 ![github card](https://github-readme-stats.vercel.app/api/pin/?username=amiruldev20&repo=wabot-go&theme=highcontrast)
-![github card](https://github-readme-stats.vercel.app/api/pin/?username=amiruldev20&repo=WhatsKuy&theme=highcontrast)
+
 
    <p align="center">
   <a href="https://github.com/amiruldev20"><img src="https://github-readme-stats.vercel.app/api?username=amiruldev20&theme=tokyonight&show_icons=true" /></a>
