@@ -21,6 +21,13 @@
   <a href="https://www.vultr.com/" target="_blank"><img src="https://img.shields.io/badge/Vultr-%230000FF.svg?&style=for-the-badge&logo=vultr&logoColor=white" alt="Vultr"></a>
 </p>
 
+## Database Used
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+
 ## :page_with_curl: I'm currently learning
 
 <p align="left">
