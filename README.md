@@ -9,9 +9,11 @@
 [<img src="https://img.shields.io/badge/Email-support@amirull.dev-purple">](mailto:support@amirull.dev)
 <a href="https://www.instagram.com/amirul.dev" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=flat-square&logo=instagram&logoColor=white" alt="Instagram"></a>
 <a href="https://wa.me/6285157489446" target="_blank"><img src="https://img.shields.io/badge/Whatsapp-%808080.svg?&style=flat-square&logo=Whatsapp&logoColor=white" alt="Whatsapp"></a>
+<a href="https://www.facebook.com/amiruldev.ci" target="_blank"><img src="https://img.shields.io/badge/Facebook-%231877F2.svg?&style=flat-square&logo=facebook&logoColor=white" alt="Facebook"></a>
 [![GitHub amiruldev20](https://img.shields.io/github/followers/amiruldev20?label=follow&style=social)](https://github.com/amiruldev20)
+[![Profile Views](https://komarev.com/ghpvc/?username=amiruldev20&label=Profile%20Views)](https://github.com/amiruldev20)
 
-## :page_with_curl: I'm currently learning
+## :page_with_curl: I'm currently learning:
 
 <p align="left">
   <img src="https://img.shields.io/badge/Dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white" alt="Dart">
