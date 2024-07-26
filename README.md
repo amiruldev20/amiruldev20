@@ -30,7 +30,8 @@
 ![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue-dot-js&logoColor=4FC08D)
 ![Gatsby](https://img.shields.io/badge/Gatsby-663399?style=for-the-badge&logo=gatsby&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-
+![Svelte](https://img.shields.io/badge/Svelte-FF3E00?style=for-the-badge&logo=svelte&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
 
 ## Repo Stats 🔥
 ![github card](https://github-readme-stats.vercel.app/api/pin/?username=amiruldev20&repo=Baileys&theme=highcontrast)
@@ -41,8 +42,7 @@
 
 ![github card](https://github-readme-stats.vercel.app/api/pin/?username=amiruldev20&repo=wabot-go&theme=highcontrast)
 
-
-   <p align="center">
+<p align="center">
   <a href="https://github.com/amiruldev20"><img src="https://github-readme-stats.vercel.app/api?username=amiruldev20&theme=tokyonight&show_icons=true" /></a>
 </p>
 
