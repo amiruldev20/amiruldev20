@@ -72,8 +72,9 @@
 </p>
   
 <p align="center">
-  <a href="https://github.com/amiruldev20"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=amiruldev20&theme=tokyonight&layout=compact" /></a>
+  <a href="https://github.com/amiruldev20"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=amiruldev20&theme=tokyonight&langs_count=100" /></a>
 </p>
+
   
 <p align="center">
   <a href="https://github.com/amiruldev20"><img src="https://github-profile-trophy.vercel.app/?username=amiruldev20&theme=radical&margin-w=20&no-bg=true&no-frame=false" /></a>
