@@ -54,15 +54,6 @@
   <img src="https://img.shields.io/badge/Ruby-CC342D?style=for-the-badge&logo=ruby&logoColor=white" alt="Ruby">
 </p>
 
-## Repo Stats 🔥
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=amiruldev20&repo=Baileys&theme=highcontrast" alt="Baileys repo">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=amiruldev20&repo=baileys-session&theme=highcontrast" alt="baileys-session repo">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=amiruldev20&repo=mywajs&theme=highcontrast" alt="mywajs repo">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=amiruldev20&repo=waSocket&theme=highcontrast" alt="waSocket repo">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=amiruldev20&repo=wabot-go&theme=highcontrast" alt="wabot-go repo">
-</p>
-
 <p align="center">
   <a href="https://github.com/amiruldev20"><img src="https://github-readme-stats.vercel.app/api?username=amiruldev20&theme=tokyonight&show_icons=true" /></a>
 </p>
@@ -70,11 +61,6 @@
 <p align="center">
   <a href="https://github.com/amiruldev20"><img src="https://github-readme-streak-stats.herokuapp.com?user=amiruldev20&theme=tokyonight&hide_border=false&properties=background&border=%239611C5FF" /></a>
 </p>
-
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact">
-</p>
-
 <p align="center">
   <a href="https://github.com/amiruldev20"><img src="https://github-profile-trophy.vercel.app/?username=amiruldev20&theme=radical&margin-w=20&no-bg=true&no-frame=false" /></a>
 </p>
