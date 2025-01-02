@@ -14,12 +14,12 @@
 
 
 <p align="center">
-  <a href="https://github.com/amiruldev20"><img src="https://github-readme-stats.vercel.app/api?username=amiruldev20&theme=tokyonight&show_icons=true" /></a>
+  <a href="https://github.com/techwiz37"><img src="https://github-readme-stats.vercel.app/api?username=techwiz37&theme=tokyonight&show_icons=true" /></a>
 </p>
 
 <p align="center">
-  <a href="https://github.com/amiruldev20"><img src="https://github-readme-streak-stats.herokuapp.com?user=amiruldev20&theme=tokyonight&hide_border=false&properties=background&border=%239611C5FF" /></a>
+  <a href="https://github.com/techwiz37"><img src="https://github-readme-streak-stats.herokuapp.com?user=techwiz37&theme=tokyonight&hide_border=false&properties=background&border=%239611C5FF" /></a>
 </p>
 <p align="center">
-  <a href="https://github.com/amiruldev20"><img src="https://github-profile-trophy.vercel.app/?username=amiruldev20&theme=radical&margin-w=20&no-bg=true&no-frame=false" /></a>
+  <a href="https://github.com/techwiz37"><img src="https://github-profile-trophy.vercel.app/?username=techwiz37&theme=radical&margin-w=20&no-bg=true&no-frame=false" /></a>
 </p>
